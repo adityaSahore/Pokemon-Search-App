@@ -6,7 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run dev`
+*********************************************************************************************************************
+IMPORTANT: Run this command to launch the React App and start the Rest API Server. The App would not work without it.
+*********************************************************************************************************************
+
+### `npm start` RUN THE ABOVE COMMAND
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
